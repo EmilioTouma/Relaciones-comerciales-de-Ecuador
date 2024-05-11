@@ -1,6 +1,6 @@
 # Relaciones-comerciales-de-Ecuador
 
-<p>
+</p>
 **Descripción del proyecto: Debe incluir el objetivo, la metodología y los
 hallazgos principales**
 Texto...
