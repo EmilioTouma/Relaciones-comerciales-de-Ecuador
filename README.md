@@ -20,4 +20,4 @@ Códigos para realizar el proceso de análisis de datos.
 <br />
 
 
-**Lista de dependencias o librerías necesarias: ** pandas, plotly.express, pycountry-convert y  plotly.
+**Lista de dependencias o librerías necesarias:** pandas, plotly.express, pycountry-convert y  plotly.
